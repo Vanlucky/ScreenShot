@@ -1,3 +1,3 @@
 # ScreenShot
-ScreenShot 屏幕截图 用VS2019MFC制作.
-项目压缩到rar里.
+ScreenShot,VisualStudio,an open source program
+the project compress to rar.
